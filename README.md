@@ -8,4 +8,4 @@ Lister les processus sur l'émulateur
 
 <img width="500" height="346" alt="image" src="https://github.com/user-attachments/assets/031a8a36-83ca-49ea-82f7-9cb815bb50b7" />
 
-<img width="464" height="239" alt="image" src="https://github.com/user-attachments/assets/cf54f386-b20b-486c-966c-7268366466b0" />
+<img width="493" height="238" alt="image" src="https://github.com/user-attachments/assets/83e06580-bdc4-47eb-8f6d-f6e77badae49" />
